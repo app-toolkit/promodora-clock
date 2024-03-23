@@ -1,0 +1,14 @@
+{
+  "pluginName": "promodora-clock",
+  "logo": "timer.png",
+  "description": "极简番茄闹钟",
+  "keywords": [
+    "clock"
+  ],
+  "entry": "https://t.kuaitu.cc/",
+  "pluginType": "ui",
+  "preload": "preload.js",
+  "mode": "multi",
+  "author": "",
+  "homepage": "https://t.kuaitu.cc/"
+}
